@@ -20,3 +20,9 @@
 
 # Ignore ./rfstrath/rfstrath/
 **/rfstrath/rfstrath
+
+.venv/
+*.egg-info/
+
+/Untitled.ipynb
+/rfsoc_book/notebooks/notebook_A/sine_data.csv
